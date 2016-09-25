@@ -1,0 +1,12 @@
+	-Name: Angela
+	-Age: 22
+	-Personality: Kind, Hard Working, Worrysome, Doesn't Stand Out, Shy, Gets
+        excited when talking about stories or when teaching.
+	-Likes: Books, Tea, House Chores, Humming, Rain.
+	
+	-Backstory:
+		Born into a farmer family, with 2 brother, she saw her family
+                burn in a half conscious state when out of carelessness, her
+                brothers made the gas in their house expload while she was
+                watering the flowers outside. She got caught in the explosion
+                and still has some scars from it. 
