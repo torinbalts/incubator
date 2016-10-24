@@ -1,24 +1,32 @@
-	-Name: Angela
+	-Name: Angela Ross
 	-Age: 22
 	-Personality: Kind, Hard Working, Worrysome, Doesn't Stand Out, Shy, Gets
-        excited when talking about stories or when teaching.
+            excited when talking about stories or when teaching.
 	-Likes: Books, Tea, House Chores, Humming, Rain.
 	
 	-Backstory:
-		Born into a farmer family, with 2 brother, she saw her family
+        		Born into a farmer family, with 2 brother, she saw her family
                 burn in a half conscious state when out of carelessness, her
                 brothers made the gas in their house expload while she was
                 watering the flowers outside. She got caught in the explosion
                 and still has some scars from it. She was 8year old at this time.
 
+<<<<<<< HEAD
                 After that, she got adopted by her aunt. Her aunt was working on
+=======
+		    After that, she got adopted by her aunt. Her aunt was working on
+>>>>>>> d963e239832328215178142882519ca89daea4d3
                 a pyramid scheme, selling beauty products. She was great at
                 keeping appearences. At home with the family she is devil:
                 uncaring, slave master, arrogant and selfish. The uncle was no
                 better working as a drug dealer while receiving pensions from
                 his early retirement from a diagnosed psychological disorder.
 
+<<<<<<< HEAD
                 Angela's life was a living hell. Had to do mostly all chores,
+=======
+		    Angela's life was a living hell. Had to do mostly all chores,
+>>>>>>> d963e239832328215178142882519ca89daea4d3
                 got bullied by her brothers, her pleas ignored by her
                 adoptive parents and the scapegoat for all family. The only time
                 she could relax was at school. She did not have friends there
@@ -29,6 +37,7 @@
                 in the fantasy adventures of it. She would come back to reality
                 when she heard the bell. The librarians were quite kind to her
                 and as she became a regular, they would try to start up a
+<<<<<<< HEAD
                 conversation with her hardly with much feedback.
 
                 The last thing her brothers ever did to her was shave her hair
@@ -42,3 +51,23 @@
                 12 year old girl and asked her if she really had no parents
                 girl who was now 12 year old
                 
+=======
+                conversation with her, hardly with much feedback.
+		
+		    One day her brothers called her outside the school building to give
+		her something their mother wanted but couldn't. Afraid but unable
+		to disobey their calling, she went. After reaching a "blind spot"
+		in the school building, both brothers started ganging up on her,
+		cutting her hair and poorly putting make up on her.
+		A passerby around the school fences upon witnessing this evil truce,
+		was able to call them out, and the brothers afraid of the 
+		consequences retreated form the spot.
+
+		    The crying girl now relieved from the bullying proceeds to walk
+		towards the man that saved her to thank him. "Thank You" she
+		said sobbing and clearing up her eyes to look at her savior.
+		The man looked quite vintage with a brown coat and fedora, with
+		a fluflly moustache and a somewhat long face with a pointy nose
+		pointing downwards. The man replies "Don't mind" with a smile
+		and walks away.
+>>>>>>> d963e239832328215178142882519ca89daea4d3
